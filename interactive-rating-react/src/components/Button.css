@@ -1,0 +1,17 @@
+.contain-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: hsl(218, 11%, 29%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: hsl(217, 12%, 63%);
+  cursor: pointer;
+  transition: ease 0.3s;
+  font-size: 18px;
+}
+
+.contain-btn:hover {
+  background-color: hsl(25, 97%, 53%);
+}
